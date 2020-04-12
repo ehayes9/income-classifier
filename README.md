@@ -4,11 +4,11 @@ As part of Udacity's Machine Learning Nanodegree, built a supervised learning mo
 
 Using SKLearn, built a LogisticRegression, RandomForestClassifier and Support Vector Machines (SVC) model, and evaluated, choosing the best performing model to tune hyperparameters. 
 
-###Pre-processing
+### Pre-processing
 
 Pre-processing included normalizing, transforming skewed data and one-hot-encoding features 
 
-###Evaluation
+### Evaluation
 
 Evaluated models using fscore (weighted at 0.5 to emphasize precision, most important metric in this case as a false positive is more costly to a charity organization than a false negative). 
  
